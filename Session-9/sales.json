@@ -1,0 +1,119 @@
+{
+	
+  "3942": {
+    "purchase_total": 100.50,
+    "currency": "CAD"
+  },
+  "8791": {
+    "purchase_total": 75.25,
+    "currency": "EUR"
+  },
+  "5623": {
+    "purchase_total": 50.75,
+    "currency": "GBP"
+  },
+  "1234": {
+    "purchase_total": 200.10,
+    "currency": "USD"
+  },
+  "5678": {
+    "purchase_total": 150.75,
+    "currency": "JPY"
+  },
+  "9876": {
+    "purchase_total": 300.50,
+    "currency": "CAD"
+  },
+  "2457": {
+    "purchase_total": 80.00,
+    "currency": "USD"
+  },
+  "7365": {
+    "purchase_total": 55.25,
+    "currency": "GBP"
+  },
+  "8910": {
+    "purchase_total": 120.60,
+    "currency": "CAD"
+  },
+  "4321": {
+    "purchase_total": 180.25,
+    "currency": "EUR"
+  },
+  "6789": {
+    "purchase_total": 90.75,
+    "currency": "JPY"
+  },
+  "5432": {
+    "purchase_total": 250.90,
+    "currency": "USD"
+  },
+  "1098": {
+    "purchase_total": 70.25,
+    "currency": "GBP"
+  },
+  "3647": {
+    "purchase_total": 140.50,
+    "currency": "CAD"
+  },
+  "2190": {
+    "purchase_total": 95.80,
+    "currency": "EUR"
+  },
+  "8765": {
+    "purchase_total": 180.75,
+    "currency": "JPY"
+  },
+  "9875": {
+    "purchase_total": 210.25,
+    "currency": "USD"
+  },
+  "1342": {
+    "purchase_total": 65.50,
+    "currency": "GBP"
+  },
+  "7690": {
+    "purchase_total": 110.20,
+    "currency": "CAD"
+  },
+  "2389": {
+    "purchase_total": 155.35,
+    "currency": "EUR"
+  },
+  "6574": {
+    "purchase_total": 80.75,
+    "currency": "JPY"
+  },
+  "9832": {
+    "purchase_total": 280.40,
+    "currency": "USD"
+  },
+  "3257": {
+    "purchase_total": 60.25,
+    "currency": "GBP"
+  },
+  "7194": {
+    "purchase_total": 130.75,
+    "currency": "CAD"
+  },
+  "8746": {
+    "purchase_total": 175.90,
+    "currency": "EUR"
+  },
+  "2019": {
+    "purchase_total": 85.75,
+    "currency": "JPY"
+  },
+  "5437": {
+    "purchase_total": 195.25,
+    "currency": "USD"
+  },
+  "1025": {
+    "purchase_total": 50.50,
+    "currency": "GBP"
+  },
+  "6932": {
+    "purchase_total": 120.30,
+    "currency": "CAD"
+  }
+}
